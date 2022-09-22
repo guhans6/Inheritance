@@ -1,6 +1,6 @@
 public class AdvCalculator extends Calculator {
     
-    // Overloading
+    // Overriding ß
     public double add(double a, double b){
         return a+b;
     }

@@ -13,7 +13,7 @@ public class Calculator {
     public int divide(int a, int b){
         return a/b;
     }
-    // Ovewrriding add
+    // overloading add
     public int add(int...numbers){
         int sum = 0;
         for(int i: numbers){
